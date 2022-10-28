@@ -3,7 +3,7 @@
 
 This repository is by tutorial on how to build an AirBnb Clone with structured content using Sanity.io and Next.js. View the full tutorial [here](https://youtu.be/mx1dbMzd3tU) 📺
 
-In this video show you how to build an AirBnB Clone, as well as manage all your data visually. We are going to build a backend for the app that defines the relationships between our data thanks to Schemas and Types, and add data using Sanity Studio ( https://www.sanity.io/ )
+The backend for the app that defines the relationships between our data thanks to Schemas and Types, and add data using Sanity Studio ( https://www.sanity.io/ )
 
 Topics we will be touching on:
 * Schemas
@@ -22,9 +22,9 @@ If you get stuck, the Sanity community I was talking about can be found here on 
 
 The backend to my project, can be found [here](https://github.com/ricardormeza/airBnb-Sanity-Backend)
 
+
+
 The backend to ORIGINAL project , can be found [here](https://github.com/kubowania/airbnb-sanity-backend)
-
-
 
 
 Google Maps API info can be found [here](https://developers.google.com/maps)
